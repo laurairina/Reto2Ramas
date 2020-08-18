@@ -1,4 +1,4 @@
-var hour=17;
+/*var hour=17;
 var saludo="";
 
 if(hour<12){
@@ -13,9 +13,9 @@ else{
 
     saludo="Buenas noches";
 }
+*/
 
-
-/* var corredores= ["maria","juan", "lucia"];
+ var corredores= ["maria","juan", "lucia"];
 var text="";
 for(var i=0; i<corredores.length; i++){
    text += corredores[i]+"\n";
@@ -23,7 +23,7 @@ for(var i=0; i<corredores.length; i++){
 console.log(text);
 
 
-var index=0;
+/*var index=0;
 var booleano= false;
 while(index< corredores.length && !booleano){
    booleano= (corredores[index] == "lucia"); // solo para una condicion de parada porque devuelve un valor true o false
@@ -37,4 +37,4 @@ while(index< corredores.length && !booleano){
  }
 
  console.log(cubo(5));
- console.log(saludo); 
+ //console.log(saludo); 
