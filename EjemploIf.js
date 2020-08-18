@@ -1,4 +1,4 @@
-/* var hour=17;
+var hour=17;
 var saludo="";
 
 if(hour<12){
@@ -13,7 +13,7 @@ else{
 
     saludo="Buenas noches";
 }
-console.log(saludo); */
+
 
 /* var corredores= ["maria","juan", "lucia"];
 var text="";
@@ -37,3 +37,4 @@ while(index< corredores.length && !booleano){
  }
 
  console.log(cubo(5));
+ console.log(saludo); 
